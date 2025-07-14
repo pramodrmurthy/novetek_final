@@ -115,7 +115,7 @@ export const ServicesSection = () => {
             {/* Image */}
             <div className="w-full md:w-1/2">
               <img
-                src="https://github.com/pramodrmurthy/novetek_final/edit/main/src/components/ServicesSection.tsx#:~:text=Screenshot.png"
+                src="src/components/Screenshot.png"
                 alt="Descriptive Alt Text"
                 className="w-full h-auto object-contain rounded-xl shadow-md"
               />
