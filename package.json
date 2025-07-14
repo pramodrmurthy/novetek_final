@@ -1,6 +1,6 @@
 {
   "name": "vite_react_shadcn_ts",
-  "homepage": "https://pramodramamurthy.github.io/core-construct-design-main",
+  "homepage": "https://pramodrmurthy.github.io/novetek_final",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -12,7 +12,6 @@
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
-
   },
   "dependencies": {
     "@hookform/resolvers": "^3.9.0",
